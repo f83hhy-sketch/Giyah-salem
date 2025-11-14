@@ -1,71 +1,41 @@
-giyah salem 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fa">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>لینک کانال‌ها</title>
-
-<style>
+  <meta charset="UTF-8">
+  <title>خدمات کشاورزی گیاه سالم صفاهان</title>
+  <style>
     body {
-        font-family: "Tahoma", sans-serif;
-        background: #f7f7f7;
-        padding: 40px 20px;
-        direction: rtl;
-        line-height: 1.9;
+      font-family: 'Vazir', sans-serif;
+      background-color: #fefcf6;
+      color: #3e3e3e;
+      text-align: center;
+      padding: 50px;
+      line-height: 1.8;
     }
-    .box {
-        max-width: 600px;
-        background: #ffffff;
-        padding: 25px;
-        border-radius: 14px;
-        margin: auto;
-        box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-    }
-    h2 {
-        margin-top: 0;
-        color: #0f7038;
-        text-align: center;
+    h1 {
+      color: #4b7f3f;
+      font-size: 2em;
     }
     a {
-        display: block;
-        margin: 12px 0;
-        padding: 10px;
-        border-radius: 8px;
-        text-decoration: none;
-        color: #fff;
-        font-weight: bold;
-        text-align: center;
+      color: #2e6c2f;
+      text-decoration: none;
+      font-weight: bold;
     }
-    .eitaa { background: #0f8a5a; }
-    .telegram { background: #2aa9e0; }
-    .whatsapp { background: #25D366; }
-</style>
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
-
 <body>
+  <h1>🌿 خوش آمدید به باغی از دانش و احساس</h1>
+  <p>در اینجا، برگ‌ها فقط نمی‌ریزند... بلکه روایت می‌کنند از بهداشت خاک، از سلامت گیاه، از عشق به زمین.</p>
+  <p>ما در <strong>خدمات کشاورزی گیاه سالم صفاهان</strong> تلاش می‌کنیم تا علم را با شعر، و تجربه را با احساس بیامیزیم.</p>
 
-<div class="box">
-    <h2>لینک‌های رسمی «گیاه سالم صفاهان»</h2>
+  <p>📎 برای همراهی با ما:</p>
+  <p><a href="https://eitaa.com/Njf_keshavarz" target="_blank">کانال ایتا</a></p>
+  <p><a href="https://t.me/Njf_keshavarz" target="_blank">کانال تلگرام</a></p>
+  <p><a href="https://whatsapp.com/channel/0029Vb35UIhG3R3sAZ328434" target="_blank">کانال واتساپ</a></p>
 
-    <p>
-        برای دریافت آموزش‌های علمی کشاورزی، نکات تخصصی،  
-        نسخه‌های گیاه‌پزشکی و مطالب کاربردی،  
-        از طریق لینک‌های زیر در شبکه‌های ما عضو شوید 🌿✨
-    </p>
-
-    <a href="https://eitaa.com/Njf_keshavarz" class="eitaa" target="_blank">
-        📡 عضویت در کانال ایتا
-    </a>
-
-    <a href="https://t.me/Njf_keshavarz" class="telegram" target="_blank">
-        ✈️ عضویت در کانال تلگرام
-    </a>
-
-    <a href="https://whatsapp.com/channel/0029Vb35UIhG3R3sAZ328434" class="whatsapp" target="_blank">
-        💬 عضویت در کانال واتساپ
-    </a>
-</div>
-
+  <p>🍂 پاییز، فصل جمع‌آوری برگ‌هاست... و ما برگ‌های دانش را با دستانی گرم گرد می‌آوریم.</p>
 </body>
 </html>
