@@ -1,78 +1,71 @@
+giyah salem 
 <!doctype html>
 <html lang="fa">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>مرکز خدمات کشاورزی گیاه سالم</title>
+<title>لینک کانال‌ها</title>
 
 <style>
     body {
         font-family: "Tahoma", sans-serif;
-        background: #f2f9f3;
-        display: flex;
-        justify-content: center;
+        background: #f7f7f7;
         padding: 40px 20px;
         direction: rtl;
+        line-height: 1.9;
     }
-    .card {
+    .box {
+        max-width: 600px;
         background: #ffffff;
-        width: 100%;
-        max-width: 420px;
-        padding: 26px;
-        border-radius: 16px;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-        text-align: center;
+        padding: 25px;
+        border-radius: 14px;
+        margin: auto;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.1);
     }
     h2 {
+        margin-top: 0;
         color: #0f7038;
-        margin-bottom: 12px;
-        font-size: 22px;
+        text-align: center;
     }
-    p {
-        font-size: 14px;
-        color: #444;
-        margin-bottom: 28px;
-        line-height: 1.8;
-    }
-    .btn {
+    a {
         display: block;
-        width: 100%;
-        padding: 12px 0;
+        margin: 12px 0;
+        padding: 10px;
+        border-radius: 8px;
         text-decoration: none;
         color: #fff;
-        border-radius: 10px;
-        margin-bottom: 12px;
         font-weight: bold;
-        font-size: 15px;
+        text-align: center;
     }
     .eitaa { background: #0f8a5a; }
     .telegram { background: #2aa9e0; }
     .whatsapp { background: #25D366; }
-
 </style>
 </head>
 
 <body>
-<div class="card">
-    <h2>مرکز خدمات کشاورزی گیاه سالم</h2>
+
+<div class="box">
+    <h2>لینک‌های رسمی «گیاه سالم صفاهان»</h2>
 
     <p>
-        برای دریافت آموزش‌های علمی، نکات کاربردی، 
-        نسخه‌های گیاه‌پزشکی و تازه‌ترین مطالب تخصصی،  
-        در شبکه‌های اجتماعی ما عضو شوید 🌿✨
+        برای دریافت آموزش‌های علمی کشاورزی، نکات تخصصی،  
+        نسخه‌های گیاه‌پزشکی و مطالب کاربردی،  
+        از طریق لینک‌های زیر در شبکه‌های ما عضو شوید 🌿✨
     </p>
 
-    <a class="btn eitaa" href="https://eitaa.com/Njf_keshavarz" target="_blank">
+    <a href="https://eitaa.com/Njf_keshavarz" class="eitaa" target="_blank">
         📡 عضویت در کانال ایتا
     </a>
 
-    <a class="btn telegram" href="https://t.me/Njf_keshavarz" target="_blank">
+    <a href="https://t.me/Njf_keshavarz" class="telegram" target="_blank">
         ✈️ عضویت در کانال تلگرام
     </a>
 
-    <a class="btn whatsapp" href="https://whatsapp.com/channel/0029Vb35UIhG3R3sAZ328434" target="_blank">
+    <a href="https://whatsapp.com/channel/0029Vb35UIhG3R3sAZ328434" class="whatsapp" target="_blank">
         💬 عضویت در کانال واتساپ
     </a>
 </div>
+
 </body>
 </html>
