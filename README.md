@@ -1,78 +1,41 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fa">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>مرکز خدمات کشاورزی گیاه سالم</title>
-
-<style>
+  <meta charset="UTF-8">
+  <title>خدمات کشاورزی گیاه سالم صفاهان</title>
+  <style>
     body {
-        font-family: "Tahoma", sans-serif;
-        background: #f2f9f3;
-        display: flex;
-        justify-content: center;
-        padding: 40px 20px;
-        direction: rtl;
+      font-family: 'Vazir', sans-serif;
+      background-color: #fefcf6;
+      color: #3e3e3e;
+      text-align: center;
+      padding: 50px;
+      line-height: 1.8;
     }
-    .card {
-        background: #ffffff;
-        width: 100%;
-        max-width: 420px;
-        padding: 26px;
-        border-radius: 16px;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-        text-align: center;
+    h1 {
+      color: #4b7f3f;
+      font-size: 2em;
     }
-    h2 {
-        color: #0f7038;
-        margin-bottom: 12px;
-        font-size: 22px;
+    a {
+      color: #2e6c2f;
+      text-decoration: none;
+      font-weight: bold;
     }
-    p {
-        font-size: 14px;
-        color: #444;
-        margin-bottom: 28px;
-        line-height: 1.8;
+    a:hover {
+      text-decoration: underline;
     }
-    .btn {
-        display: block;
-        width: 100%;
-        padding: 12px 0;
-        text-decoration: none;
-        color: #fff;
-        border-radius: 10px;
-        margin-bottom: 12px;
-        font-weight: bold;
-        font-size: 15px;
-    }
-    .eitaa { background: #0f8a5a; }
-    .telegram { background: #2aa9e0; }
-    .whatsapp { background: #25D366; }
-
-</style>
+  </style>
 </head>
-
 <body>
-<div class="card">
-    <h2>مرکز خدمات کشاورزی گیاه سالم</h2>
+  <h1>🌿 خوش آمدید به باغی از دانش و احساس</h1>
+  <p>در اینجا، برگ‌ها فقط نمی‌ریزند... بلکه روایت می‌کنند از بهداشت خاک، از سلامت گیاه، از عشق به زمین.</p>
+  <p>ما در <strong>خدمات کشاورزی گیاه سالم صفاهان</strong> تلاش می‌کنیم تا علم را با شعر، و تجربه را با احساس بیامیزیم.</p>
 
-    <p>
-        برای دریافت آموزش‌های علمی، نکات کاربردی، 
-        نسخه‌های گیاه‌پزشکی و تازه‌ترین مطالب تخصصی،  
-        در شبکه‌های اجتماعی ما عضو شوید 🌿✨
-    </p>
+  <p>📎 برای همراهی با ما:</p>
+  <p><a href="https://eitaa.com/Njf_keshavarz" target="_blank">کانال ایتا</a></p>
+  <p><a href="https://t.me/Njf_keshavarz" target="_blank">کانال تلگرام</a></p>
+  <p><a href="https://whatsapp.com/channel/0029Vb35UIhG3R3sAZ328434" target="_blank">کانال واتساپ</a></p>
 
-    <a class="btn eitaa" href="https://eitaa.com/Njf_keshavarz" target="_blank">
-        📡 عضویت در کانال ایتا
-    </a>
-
-    <a class="btn telegram" href="https://t.me/Njf_keshavarz" target="_blank">
-        ✈️ عضویت در کانال تلگرام
-    </a>
-
-    <a class="btn whatsapp" href="https://whatsapp.com/channel/0029Vb35UIhG3R3sAZ328434" target="_blank">
-        💬 عضویت در کانال واتساپ
-    </a>
-</div>
+  <p>🍂 پاییز، فصل جمع‌آوری برگ‌هاست... و ما برگ‌های دانش را با دستانی گرم گرد می‌آوریم.</p>
 </body>
 </html>
